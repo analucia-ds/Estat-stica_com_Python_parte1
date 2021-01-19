@@ -1,7 +1,7 @@
 # Estatística_com_Python_parte1
 ## Curso Introdutório da Alura de Estatística com Python, 
 
-<p align="center">A tarefa do curso foi desenvolver um projeto de análise descritiva. </p>
+<p>A tarefa do curso foi desenvolver um projeto de análise descritiva. </p>
 
 * Ambiente utlizado: jupyter notebook
 * Sistema Operacional Utilizado: Ubuntu
