@@ -1,1 +1,1 @@
-# Estat-stica_com_Python_parte1
+# Estatística_com_Python_parte1
